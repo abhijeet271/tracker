@@ -1,5 +1,7 @@
-discusssion of git hub , its features, and function
-discussion about brilliant.org and courses available on it
-discussion about vs code
-installation of microsoft teams app
-created a new repository
+# 23.09.2023
+- discusssion of git hub , its features, and function
+
+- discussion about brilliant.org and courses available on it
+- discussion about vs code
+- installation of microsoft teams app
+- created a new repository
