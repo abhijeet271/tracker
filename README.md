@@ -1,7 +1,7 @@
-# 24.09.2023
+# 23.09.2023
 
-- In brilliant.org, visited computer science and programming part (thinking in code)
-- Took an attempt to understand python from you tube video ,from suggested channel
-- Trying to create another repository ,what I learnt yesterday
-
-
+- Discussion about git hub,its features and function
+- Discussion about Brilliant.org and courses available on it
+- Discussion about vs code
+- Installation of microsoft teams app and outlook
+- created a new repository
