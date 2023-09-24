@@ -1,7 +1,7 @@
-# 23.09.2023
-- discusssion of git hub , its features, and function
+# 24.09.2023
 
-- discussion about brilliant.org and courses available on it
-- discussion about vs code
-- installation of microsoft teams app
-- created a new repository
+- In brilliant.org, visited computer science and programming part (thinkimg in code)
+- Took an attempt to understand python from you tube video ,from suggested channel
+- Trying to create another repository ,what i learnt yesterday
+
+
