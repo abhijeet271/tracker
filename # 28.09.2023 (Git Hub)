@@ -1,19 +1,9 @@
 # 28.09.2023 (Git Hub)
 
-Q)Why is Git arround?
+Q. Why is Git arround?
 Ans:-It is a distributed version control system. It is widely used due to the following advantages:-
 - By using git data can be stored online without consuming storage.
 - It recovers files easily.
 - It is easy to track, who introduced an issue and when?
-- If there is any issue with new version, we can roll back to previuosly working state easily.
 
-
-- Some more Features of Git:-
-
-1)Its almost every operation is local:- All operation can take place in  local computer, need not to
-push in any server for it. Once file is ready to push , we can push it in remote repository.
-2)Git has Integrity:-files are safe. No can change , If someone changes it notifies. (checksum should be same)
-3)Git generally only adds data.
-
--  Git Hub is web based hosting service.
 
