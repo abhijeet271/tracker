@@ -1,3 +1,8 @@
+# Update upto (11.10.2023)
+- worked on python command prompt
+- typing practice
+- reviewed github ui again
+- trying to write programme and upload screenshot in peer review..
 # Python /Update(08.10.2023)
 - reviewed github ui
 - started working on codespaces
